@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Obi Enechionyia
 - 👀 I’m interested in fullstack web/app development.
 - 🌱 I’m currently learning ReactJS.
-- 📫 How to reach me: email me @ obienechionyia@gmail.com
+- 📫 How to reach me: obienechionyia@gmail.com
 
 <!---
 obienechionyia/obienechionyia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
