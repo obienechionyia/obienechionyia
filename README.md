@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Obi Enechionyia
-- 👀 I’m interested in fullstack web/app development.
-- 🌱 I’m currently learning ReactJS.
+- 👀 I’m interested in fullstack web/app development
+- 🌱 I’m currently learning ReactJS
 - 📫 How to reach me: obienechionyia@gmail.com
 
 <!---
